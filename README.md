@@ -38,7 +38,7 @@ Finally, a partition key property is used internally to manage partitioning on y
 📣 [Azure Cosmos DB - Official Blog](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-repository-net-sdk-v-1-0-4)
 
 
-## Getting started
+## Getting started numder oe
 
 1. Create an Azure Cosmos DB SQL resource.
 1. Obtain the resource connection string from the **Keys** blade, be sure to get a connection string and not the key - these are different. The connection string is a compound key and endpoint URL.
