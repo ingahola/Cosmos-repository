@@ -4,7 +4,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-# Azure Cosmos DB Repository .NET SDK NON 
+# Azure Cosmos DB Repository .NET SDK 
 
 This package wraps the [NuGet: Microsoft.Azure.Cosmos package](https://www.nuget.org/packages/Microsoft.Azure.Cosmos),
 exposing a simple dependency-injection enabled `IRepository<T>` interface.
